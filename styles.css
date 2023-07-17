@@ -1,0 +1,56 @@
+/* styles.css */
+
+/* Body Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f1f1;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Heading Styles */
+h1 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+/* Paragraph Styles */
+p {
+    font-size: 18px;
+    color: #555;
+}
+
+/* Box Styles */
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    line-height: 200px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* List Styles */
+ul {
+    list-style-type: square;
+    color: #555;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+/* Footer Styles */
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid #ddd;
+    color: #777;
+}
